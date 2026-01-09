@@ -1,10 +1,10 @@
 # Hi there, I'm Geano 👋
 
-I'm a Foundry VTT developer dedicated to **cinematic immersion** and **deep workflow automation**. I build tools that handle the technical heavy lifting, so Game Masters and players can focus on the story.
+I'm a FoundryVTT developer dedicated to **cinematic immersion** and **deep workflow automation**. I build tools that handle the technical heavy lifting, so Game Masters and players can focus on the story.
 
 ---
 
-## 🛠️ My Foundry VTT Modules
+## 🛠️ My FoundryVTT Modules
 
 ### 🏗️ Scene & Master Tools
 * **[Geano's Scene Rotation](https://github.com/GeanoFee/geanos-scene-rotation)**: Rotate entire scenes (walls, lights, and tokens) with a single click.
