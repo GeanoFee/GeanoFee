@@ -1,32 +1,36 @@
 # Hi there, I'm Geano 👋
 
-I'm a Foundry VTT developer focused on **immersion** and **workflow automation**. My goal is to bridge the gap between technical complexity and a seamless cinematic tabletop experience.
+I'm a Foundry VTT developer dedicated to **cinematic immersion** and **deep workflow automation**. I build tools that handle the technical heavy lifting, so Game Masters and players can focus on the story.
 
 ---
 
 ## 🛠️ My Foundry VTT Modules
 
-### 🗺️ Scene Management
-* **[Geano's Scene Rotation](https://github.com/GeanoFee/geanos-scene-rotation)**: The "missing feature" for Foundry. Rotate entire scenes (backgrounds, walls, lights, and tokens) with a single click.
+### 🏗️ Scene & Master Tools
+* **[Geano's Scene Rotation](https://github.com/GeanoFee/geanos-scene-rotation)**: Rotate entire scenes (walls, lights, and tokens) with a single click.
+* **[Geano's Notification Killer](https://github.com/GeanoFee/geanos-notification-killer)**: Suppress technical UI warnings for players to maintain immersion.
+* **[Geano's Carriage Shake](https://github.com/GeanoFee/geanos-carriage-shake)**: Adds a synchronized screen-shake effect for bumpy rides and environmental hazards.
 
-### 🎬 Immersion & Visuals
-* **Geanos CineBars**: Automatically adds cinematic letterbox bars when combat starts. Transform your encounters into movie-like experiences.
-* **Geano's Notification Killer**: Keeps your players immersed by suppressing technical UI warnings and errors they can't fix anyway.
+### 🎭 Cinematic & Visuals
+* **[Geano's CineBars](https://github.com/GeanoFee/geanos-cinebars)**: Automated cinematic letterbox bars for combat encounters.
+* **[Geano's Token Grayscale](https://github.com/GeanoFee/geanos-token-grayscale)**: Visual HP tracking by automatically tinting incapacitated tokens (DSA/gdsa).
 
-### ⚔️ System Integration
-* **GDSA Polyglot Bridge**: A specialized bridge connecting **Goody's DSA4.1 Core** with the **Polyglot** module for automatic language detection.
+### 💰 Economy & Automation
+* **[Geano's DnD Coin Manager](https://github.com/GeanoFee/geanos-coin-manager)**: Streamlined currency management and math inputs for dnd5e.
+* **[Geano's GDSA Exchange Office](https://github.com/GeanoFee/geanos-gdsa-exchange-office)**: Automated coin optimization and conversion for DSA 4.1.
+
+### 🌍 System Bridges
+* **[GDSA Polyglot Bridge](https://github.com/GeanoFee/geanos-polyglot-bridge)**: Seamlessly connects Polyglot's language features with Goody's DSA4.1 Core.
 
 ---
 
-## 🚀 What's next?
-I am currently in the process of officially listing all my modules in the Foundry VTT package directory. 
-
-* **Status:** `Geano's Scene Rotation` is currently under review for the official gallery.
-* **Development:** Working on more Quality-of-Life tools for GMs.
+## 📈 Status & Roadmap
+* **Official Listing:** `Geano's Scene Rotation` is currently under review by the Foundry team. More modules will follow shortly.
+* **Development:** Currently polishing existing modules and working on new tools for immersive storytelling.
 
 ---
 
 ## 💬 Connect with me
-If you encounter any bugs or have feature requests, feel free to open an **Issue** in the respective repository or find me on the official Foundry VTT Discord!
+Found a bug or have a cool idea? Open an **Issue** in the respective repository or find me on the official Foundry VTT Discord!
 
 [![GitHub followers](https://img.shields.io/github/followers/GeanoFee?style=social)](https://github.com/GeanoFee)
