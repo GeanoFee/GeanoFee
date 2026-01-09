@@ -20,7 +20,7 @@ I'm a Foundry VTT developer dedicated to **cinematic immersion** and **deep work
 * **[Geano's GDSA Exchange Office](https://github.com/GeanoFee/geanos-gdsa-exchange-office)**: Automated coin optimization and conversion for DSA 4.1.
 
 ### 🌍 System Bridges
-* **[GDSA Polyglot Bridge](https://github.com/GeanoFee/geanos-polyglot-bridge)**: Seamlessly connects Polyglot's language features with Goody's DSA4.1 Core.
+* **[Geano's GDSA Polyglot Bridge](https://github.com/GeanoFee/geanos-gdsa-polyglot-bridge)**: Seamlessly connects Polyglot's language features with Goody's DSA4.1 Core.
 
 ---
 
