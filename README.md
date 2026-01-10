@@ -29,8 +29,8 @@ I'm a FoundryVTT developer dedicated to **cinematic immersion** and **deep workf
 ---
 
 ## 📈 Status & Roadmap
-* **Official Listing:** `Geano's Scene Rotation` is currently under review by the Foundry team. More modules will follow shortly.
-* **Development:** Currently polishing existing modules and working on new tools for immersive storytelling.
+* **Official Listing:** `Geano's Scene Rotation` is now **officially approved** and available in the FoundryVTT Package Directory! More modules are currently in the submission pipeline.
+* **Current Focus:** Rolling out **SoundScape Realism** and the **Scene Optimizer**, focusing on high-performance environmental simulation.
 
 ---
 
