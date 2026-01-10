@@ -6,6 +6,9 @@ I'm a FoundryVTT developer dedicated to **cinematic immersion** and **deep workf
 
 ## 🛠️ My FoundryVTT Modules
 
+### 🎵 Immersive Audio
+* **[Geano's SoundScape Realism](https://github.com/GeanoFee/geanos-soundscape-realism)**: An overhaul of Foundry's audio engine. Features real-time acoustic occlusion (muffling) and procedural reverb zones calculated via multithreaded raycasting.
+  
 ### 🏗️ Scene & Master Tools
 * **[Geano's Scene Rotation](https://github.com/GeanoFee/geanos-scene-rotation)**: Rotate entire scenes (walls, lights, and tokens) with a single click.
 * **[Geano's Scene Optimizer](https://github.com/GeanoFee/geanos-scene-optimizer)**: Optimize world performance by converting images to WebP and audio to OGG Opus using fast, browser-native WebCodecs.
