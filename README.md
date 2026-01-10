@@ -35,6 +35,6 @@ I'm a FoundryVTT developer dedicated to **cinematic immersion** and **deep workf
 ---
 
 ## 💬 Connect with me
-Found a bug or have a cool idea? Open an **Issue** in the respective repository or find me on the official Foundry VTT Discord!
+Found a bug or have a cool idea? Open an **Issue** in the respective repository or find me on the official FoundryVTT Discord!
 
 [![GitHub followers](https://img.shields.io/github/followers/GeanoFee?style=social)](https://github.com/GeanoFee)
