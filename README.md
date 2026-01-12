@@ -1,10 +1,11 @@
 # Hi there, I'm Geano 👋
 
-I'm a FoundryVTT developer dedicated to **cinematic immersion** and **deep workflow automation**. I build tools that handle the technical heavy lifting, so Game Masters and players can focus on the story.
+I'm a **Verified Foundry VTT Developer** dedicated to breaking the boundaries of virtual tabletop immersion. From high-performance engine optimizations to non-euclidean spatial geometry, I build tools that transform how stories are told.
 
 ---
 
-## 🛠️ My FoundryVTT Modules
+## 🚀 My Verified Foundry VTT Modules
+*All modules below are officially listed in the Foundry VTT Package Directory.*
 
 ### 🎵 Immersive Audio
 * **[Geano's SoundScape Realism](https://github.com/GeanoFee/geanos-soundscape-realism)**: An overhaul of Foundry's audio engine. Features real-time acoustic occlusion (muffling) and procedural reverb zones calculated via multithreaded raycasting.
@@ -28,9 +29,14 @@ I'm a FoundryVTT developer dedicated to **cinematic immersion** and **deep workf
 
 ---
 
+## 🧪 Research & "Outside the Box" Development
+I am currently investigating ways to challenge the inherent limitations of the FoundryVTT engine. My goal is to re-evaluate core engine constraints to enable experiences that were previously considered impossible in the FoundryVTT environment.
+
+---
+
 ## 📈 Status & Roadmap
-* **Official Listing:** `Geano's Scene Rotation` is now **officially approved** and available in the FoundryVTT Package Directory! More modules are currently in the submission pipeline.
-* **Current Focus:** Rolling out **SoundScape Realism** and the **Scene Optimizer**, focusing on high-performance environmental simulation.
+* **Official Status:** Core modules are fully approved and available in the FoundryVTT setup menu.
+* **Current Focus:** Polishing upcoming "outside the box" projects and ensuring deep integration with existing community standards like Monk's Active Tile Triggers.
 
 ---
 
