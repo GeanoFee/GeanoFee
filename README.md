@@ -32,7 +32,7 @@ I'm a **Verified FoundryVTT Developer** dedicated to breaking the boundaries of 
 * **[Geano's Token Grayscale](https://github.com/GeanoFee/geanos-token-grayscale)**: Automated HP-based visual status tracking.
 * **[Geano's DnD Coin Manager](https://github.com/GeanoFee/geanos-coin-manager)**: Streamlined currency math for dnd5e.
 * **[Geano's GDSA Exchange Office](https://github.com/GeanoFee/geanos-gdsa-exchange-office)**: Streamlined currency math for Goody's DSA 4.1 Core.
-* **[Geano's GDSA Bridge Series](https://github.com/GeanoFee/geanos-gdsa-polyglot-bridge)**: Deep integration tool for DSA 4.1, bridging Polyglot to the GDSA system.
+* **[Geano's GDSA Polyglot Bridge](https://github.com/GeanoFee/geanos-gdsa-polyglot-bridge)**: Integration tool for DSA 4.1, bridging Polyglot to the GDSA system.
 
 ---
 
