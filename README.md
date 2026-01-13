@@ -1,31 +1,38 @@
 # Hi there, I'm Geano 👋
 
-I'm a **Verified Foundry VTT Developer** dedicated to breaking the boundaries of virtual tabletop immersion. From high-performance engine optimizations to non-euclidean spatial geometry, I build tools that transform how stories are told.
+I'm a **Verified FoundryVTT Developer** dedicated to breaking the boundaries of virtual tabletop immersion. From high-performance engine optimizations to tiny immersion-treats, I build tools that transform how stories are told.
 
 ---
 
-## 🚀 My Verified Foundry VTT Modules
-*All modules below are officially listed in the Foundry VTT Package Directory.*
+## 🏆 Featured Project: Geano's Phantom Performance
+**Out-of-the-box Automation of Memory Management for FoundryVTT.**
 
-### 🎵 Immersive Audio
-* **[Geano's SoundScape Realism](https://github.com/GeanoFee/geanos-soundscape-realism)**: An overhaul of Foundry's audio engine. Features real-time acoustic occlusion (muffling) and procedural reverb zones calculated via multithreaded raycasting.
-  
-### 🏗️ Scene & Master Tools
-* **[Geano's Scene Rotation](https://github.com/GeanoFee/geanos-scene-rotation)**: Rotate entire scenes (walls, lights, and tokens) with a single click.
-* **[Geano's Scene Optimizer](https://github.com/GeanoFee/geanos-scene-optimizer)**: Optimize world performance by converting images to WebP and audio to OGG Opus using fast, browser-native WebCodecs.
-* **[Geano's Notification Killer](https://github.com/GeanoFee/geanos-notification-killer)**: Suppress technical UI warnings for players to maintain immersion.
-* **[Geano's Carriage Shake](https://github.com/GeanoFee/geanos-carriage-shake)**: Adds a synchronized screen-shake effect for bumpy rides and environmental hazards.
+* **The Problem:** Massive worlds with thousands of actors and complex scenes freeze browsers and bloat RAM usage.
+* **The Solution:** GPP creates "Phantom" skeletons, offloading heavy JSON data to background storage while maintaining all world links and IDs.
+* **Key Tech:** ES6 Proxy-Interception for Just-in-Time hydration, Atomic Write Safety for data integrity, and Predictive Pre-fetching.
+* **Impact:** Up to **90% reduction** in initial world load times.
 
-### 🎭 Cinematic & Visuals
-* **[Geano's CineBars](https://github.com/GeanoFee/geanos-cinebars)**: Automated cinematic letterbox bars for combat encounters.
-* **[Geano's Token Grayscale](https://github.com/GeanoFee/geanos-token-grayscale)**: Visual HP tracking by automatically tinting incapacitated tokens (DSA/gdsa).
+---
 
-### 💰 Economy & Automation
-* **[Geano's DnD Coin Manager](https://github.com/GeanoFee/geanos-coin-manager)**: Streamlined currency management and math inputs for dnd5e.
-* **[Geano's GDSA Exchange Office](https://github.com/GeanoFee/geanos-gdsa-exchange-office)**: Automated coin optimization and conversion for DSA 4.1.
+## 🛠️ My Verified Foundry VTT Modules
+*All modules are officially listed in the Foundry VTT Package Directory.*
 
-### 🌍 System Bridges
-* **[Geano's GDSA Polyglot Bridge](https://github.com/GeanoFee/geanos-gdsa-polyglot-bridge)**: Seamlessly connects Polyglot's language features with Goody's DSA4.1 Core.
+### ⚙️ Core Engine & Performance
+* **[Geano's Phantom Performance](https://github.com/GeanoFee/geanos-phantom-performance)**: Advanced memory manager using "Phantom" data skeletons.
+* **[Geano's Scene Optimizer](https://github.com/GeanoFee/geanos-scene-optimizer)**: High-speed asset optimization (WebP/OGG) using browser-native WebCodecs.
+* **[Geano's Scene Rotation](https://github.com/GeanoFee/geanos-scene-rotation)**: Complex coordinate transformation for rotating entire scenes (walls, lights, tokens).
+
+### 🎵 Immersive Audio & Visuals
+* **[Geano's SoundScape Realism](https://github.com/GeanoFee/geanos-soundscape-realism)**: Real-time acoustic occlusion and reverb calculated via multithreaded raycasting.
+* **[Geano's CineBars](https://github.com/GeanoFee/geanos-cinebars)**: Automated cinematic letterbox bars for combat immersion.
+* **[Geano's Carriage Shake](https://github.com/GeanoFee/geanos-carriage-shake)**: Synchronized environmental screen-shake effects.
+
+### 🎭 Automation & System Bridges
+* **[Geano's Notification Killer](https://github.com/GeanoFee/geanos-notification-killer)**: UX cleanup by suppressing technical UI warnings.
+* **[Geano's Token Grayscale](https://github.com/GeanoFee/geanos-token-grayscale)**: Automated HP-based visual status tracking.
+* **[Geano's DnD Coin Manager](https://github.com/GeanoFee/geanos-coin-manager)**: Streamlined currency math for dnd5e.
+* **[Geano's GDSA Exchange Office](https://github.com/GeanoFee/geanos-gdsa-exchange-office)**: Streamlined currency math for Goody's DSA 4.1 Core.
+* **[Geano's GDSA Bridge Series](https://github.com/GeanoFee/geanos-gdsa-polyglot-bridge)**: Deep integration tool for DSA 4.1, bridging Polyglot to the GDSA system.
 
 ---
 
@@ -36,9 +43,7 @@ I am currently investigating ways to challenge the inherent limitations of the F
 
 ## 📈 Status & Roadmap
 * **Official Status:** Core modules are fully approved and available in the FoundryVTT setup menu.
-* **Current Focus:** Polishing upcoming "outside the box" projects and ensuring deep integration with existing community standards like Monk's Active Tile Triggers.
-
----
+* **Current Focus:** Predictive "Just-in-Time" data hydration and deep integration with community standards like Monk's Active Tile Triggers.
 
 ## 💬 Connect with me
 Found a bug or have a cool idea? Open an **Issue** in the respective repository or find me on the official FoundryVTT Discord!
