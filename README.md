@@ -11,11 +11,21 @@ I'm a **Verified FoundryVTT Developer** dedicated to breaking the boundaries of 
 * **The Solution:** GPP creates "Phantom" skeletons, offloading heavy JSON data to background storage while maintaining all world links and IDs.
 * **Key Tech:** ES6 Proxy-Interception for Just-in-Time hydration, Atomic Write Safety for data integrity, and Predictive Pre-fetching.
 * **Impact:** Up to **90% reduction** in initial world load times. -->
+---
+
+## 🏆 Featured Project: Geano's Jump'n'Run Level Editor
+**Turning a VTT into a fully functional 2D Side-Scroller Physics Engine.**
+
+* **The Innovation:** Breaks the top-down paradigm by introducing a custom real-time gravity and collision engine.
+* **Level Design:** A full suite of tools to draw platforms, walls, hazards, and portals directly onto the canvas.
+* **Multiplayer:** Fully networked physics — watch players jump, wall-slide, and fall in real-time.
+* **Integration:** Deep bridge to *Monk's Active Tile Triggers* for retro-style heart systems and checkpoints.
+* **[View Repository](https://github.com/GeanoFee/geanos-foundry-jump-n-run-level-editor)**
 
 ---
 
 ## 🛠️ My Verified Foundry VTT Modules
-*All modules are officially listed in the Foundry VTT Package Directory.*
+*I queue all my modules for official listing in the FoundryVTT Package Directory.*
 
 ### ⚙️ Core Engine & Performance
 <!-- * **[Geano's Phantom Performance](https://github.com/GeanoFee/geanos-phantom-performance)**: Advanced memory manager using "Phantom" data skeletons. -->
