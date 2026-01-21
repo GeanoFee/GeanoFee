@@ -20,7 +20,7 @@ I'm a **Verified FoundryVTT Developer** dedicated to breaking the boundaries of 
 * **Level Design:** A full suite of tools to draw platforms, walls, hazards, and portals directly onto the canvas.
 * **Multiplayer:** Fully networked physics — watch players jump, wall-slide, and fall in real-time.
 * **Integration:** Deep bridge to *Monk's Active Tile Triggers* for retro-style heart systems and checkpoints.
-* **[View Repository](https://github.com/GeanoFee/geanos-foundry-jump-n-run-level-editor)**
+* **[Geano's Jump'n'Run Level Editor](https://github.com/GeanoFee/geanos-foundry-jump-n-run-level-editor)**
 
 ---
 
