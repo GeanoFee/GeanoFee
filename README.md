@@ -24,7 +24,7 @@ I'm an **approved Developer of FoundryVTT Modules** dedicated to breaking the bo
 
 ---
 
-## 🛠️ My Verified Foundry VTT Modules
+## 🛠️ My approved Foundry VTT Modules
 *I queue all my modules for official listing in the FoundryVTT Package Directory.*
 
 ### ⚙️ Core Engine & Performance
