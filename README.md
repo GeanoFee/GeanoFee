@@ -1,6 +1,6 @@
 # Hi there, I'm Geano 👋
 
-I'm an **Developer of approved FoundryVTT Modules** dedicated to breaking the boundaries of virtual tabletop immersion. From high-performance engine optimizations to tiny immersion-treats, I build tools that transform how stories are told.
+I'm a **FoundryVTT Community Developer** dedicated to breaking the boundaries of virtual tabletop immersion. From high-performance engine optimizations to tiny immersion-treats, I build tools that transform how stories are told.
 
 <!-- ---
 
