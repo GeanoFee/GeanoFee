@@ -2,15 +2,6 @@
 
 I'm a **FoundryVTT Community Developer** dedicated to breaking the boundaries of virtual tabletop immersion. From high-performance engine optimizations to tiny immersion-treats, I build tools that transform how stories are told.
 
-<!-- ---
-
-## 🏆 Featured Project: Geano's Phantom Performance
-**Out-of-the-box Automation of Memory Management for FoundryVTT.**
-
-* **The Problem:** Massive worlds with thousands of actors and complex scenes freeze browsers and bloat RAM usage.
-* **The Solution:** GPP creates "Phantom" skeletons, offloading heavy JSON data to background storage while maintaining all world links and IDs.
-* **Key Tech:** ES6 Proxy-Interception for Just-in-Time hydration, Atomic Write Safety for data integrity, and Predictive Pre-fetching.
-* **Impact:** Up to **90% reduction** in initial world load times. -->
 ---
 
 ## 🏆 Featured Project: Geano's Jump'n'Run Editor
@@ -28,7 +19,7 @@ I'm a **FoundryVTT Community Developer** dedicated to breaking the boundaries of
 *I queue all my modules for official listing in the FoundryVTT Package Directory.*
 
 ### ⚙️ Core Engine & Performance
-<!-- * **[Geano's Phantom Performance](https://github.com/GeanoFee/geanos-phantom-performance)**: Advanced memory manager using "Phantom" data skeletons. -->
+* **[Geano's Phantom Performance](https://github.com/GeanoFee/geanos-phantom-performance)**: Advanced memory manager using "Phantom" data skeletons.
 * **[Geano's Scene Optimizer](https://github.com/GeanoFee/geanos-scene-optimizer)**: High-speed asset optimization (WebP/OGG) using browser-native WebCodecs.
 * **[Geano's Scene Rotation](https://github.com/GeanoFee/geanos-scene-rotation)**: Complex coordinate transformation for rotating entire scenes (walls, lights, tokens).
 
