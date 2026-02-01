@@ -15,13 +15,14 @@ I'm a **FoundryVTT Community Developer** dedicated to breaking the boundaries of
 
 ---
 
-## 🛠️ My approved Foundry VTT Modules
+## 🛠️ My FoundryVTT Modules
 *I queue all my modules for official listing in the FoundryVTT Package Directory.*
 
 ### ⚙️ Core Engine & Performance
 * **[Geano's Phantom Performance](https://github.com/GeanoFee/geanos-phantom-performance)**: Advanced memory manager using "Phantom" data skeletons.
 * **[Geano's Scene Optimizer](https://github.com/GeanoFee/geanos-scene-optimizer)**: High-speed asset optimization (WebP/OGG) using browser-native WebCodecs.
 * **[Geano's Scene Rotation](https://github.com/GeanoFee/geanos-scene-rotation)**: Complex coordinate transformation for rotating entire scenes (walls, lights, tokens).
+* **[Geano's Secret Rolls](https://github.com/GeanoFee/geanos-secret-rolls)**: Add another roll-mode that makes rolls being privately whispered to the GM.
 
 ### 🎵 Immersive Audio & Visuals
 * **[Geano's SoundScape Realism](https://github.com/GeanoFee/geanos-soundscape-realism)**: Real-time acoustic occlusion and reverb calculated via multithreaded raycasting.
