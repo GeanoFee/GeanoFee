@@ -44,7 +44,7 @@ I am currently investigating ways to challenge the inherent limitations of the F
 ---
 
 ## 📈 Status & Roadmap
-* **Official Status:** Core modules are fully approved and available in the FoundryVTT setup menu.
+* **Official Status:** Core modules are listed and available in the FoundryVTT setup menu.
 * **Current Focus:** Predictive "Just-in-Time" data hydration and deep integration with community standards like Monk's Active Tile Triggers.
 
 ## 💬 Connect with me
